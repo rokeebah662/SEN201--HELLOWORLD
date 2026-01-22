@@ -1,11 +1,11 @@
+# SEN201 - Hello World (Python)
+
 # Author
 Name: Sanni Rokeebah Abiodun
 Matric no: 24/13875
 Course:SEN201
 Project: Hello World Python
 Department:Computer Science
-
-# SEN201 - Hello World (Python)
 
 ## Description
 This project is a simple Python program that prints "Hello World" to the screen.  
